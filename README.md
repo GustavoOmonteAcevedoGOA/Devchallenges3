@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://devchallenges3.netlify.app/">
+    <a href="https://www.figma.com/file/3cf83hHRBAGjG5EKPcG2bV/interior-consultant-challenge?node-id=1%3A4">
       Demo
     </a>
     <span> | </span>
